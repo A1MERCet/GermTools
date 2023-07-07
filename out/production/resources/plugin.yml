@@ -1,0 +1,7 @@
+name: GermTools
+version: '${version}'
+main: net.mcbbs.a1mercet.germtools.GermTools
+commands:
+  gt:
+    description: GermTools
+    permission: "germtools.cmd.main"

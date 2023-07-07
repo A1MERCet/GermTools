@@ -1,0 +1,9 @@
+name: GermTools
+version: '1.0-SNAPSHOT'
+main: net.mcbbs.a1mercet.germtools.GermTools
+depend:
+  - GermPlugin
+commands:
+  gt:
+    description: GermTools
+    permission: "germtools.cmd.main"
